@@ -1125,6 +1125,7 @@ footer .logo-style {
 .castom-checkbox {
   fill: transparent;
   display: inline-flex;
+  flex-shrink: 0;
   justify-content: center;
   align-items: center;
   cursor: pointer;
